@@ -116,7 +116,7 @@ li:hover ul {
 }
 .com{
 	margin-left: auto;
-    margin-right: auto;
+    	margin-right: auto;
 }
 .shake:hover{
 	animation: shake 0.5s;
